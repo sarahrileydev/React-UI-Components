@@ -1,6 +1,6 @@
 /* All styles for your Card Components live here */
 .CardBanner {
   width: 100%;
-  height: auto;
+  height: 400px;
   background-image: url("https://tk-assets.lambdaschool.com/fcd75197-7d12-46ec-bc9e-4130f34822fa_reactbackground.png");
 }

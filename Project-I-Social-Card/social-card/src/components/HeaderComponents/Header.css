@@ -6,3 +6,9 @@
 .HeaderTitle {
   display: flex;
 }
+
+.ImageThumbnail {
+  margin: .3rem;
+  width: 3.5rem;
+  height: 3.5rem;
+}

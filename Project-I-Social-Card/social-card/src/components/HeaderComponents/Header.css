@@ -1,4 +1,8 @@
 /* All styles for your header Components live here */
+.HeaderContainer {
+  display: flex;
+}
+
 .HeaderTitle {
   display: flex;
 }

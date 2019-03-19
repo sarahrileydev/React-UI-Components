@@ -2,8 +2,7 @@ import React from "react";
 import "./Display.css";
 
 const CalculatorDisplay = props => {
-  return <div className="CalculatorDisplay">0
-  </div>;
+  return <input value="0 " className="CalculatorDisplay" />;
 };
 
 export default CalculatorDisplay;

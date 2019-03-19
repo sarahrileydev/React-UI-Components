@@ -1,0 +1,46 @@
+.CalculatorMain {
+  box-sizing: border-box;
+  margin: 3rem auto;
+  width: 35%;
+  height: auto;
+  border: 2px solid gray;
+}
+
+
+
+.number {
+  width: 25%;
+  height: 10rem;
+  font-size: 5rem;
+  font-weight: bold;
+  border: 1px solid gray;
+  background-color: whitesmoke;
+}
+
+.operator {
+  width: 25%;
+  height: 10rem;
+  font-size: 5rem;
+  border: 1px solid gray;
+  background-color: crimson;
+  color: white;
+}
+
+.clear {
+  width: 75%;
+  height: 10rem;
+  font-size: 5rem;
+  font-weight: bold;
+  border: 1px solid gray;
+  background-color: whitesmoke;
+}
+
+.zero {
+  width: 75%;
+  height: 10rem;
+  font-size: 5rem;
+  font-weight: bold;
+  border: 1px solid gray;
+  background-color: whitesmoke;
+}
+

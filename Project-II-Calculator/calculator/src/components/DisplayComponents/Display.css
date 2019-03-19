@@ -1,0 +1,10 @@
+.CalculatorDisplay {
+  width: 100%;
+  height: 10rem;
+  font-size: 8rem;
+  text-align: right;
+  align-items: center;
+  border: 1px solid gray;
+  background-color: black;
+  color: white;
+}
